@@ -6,6 +6,10 @@ A business analytics project focused on analyzing sales data and generating usef
 
 This project demonstrates how data analysis can be used to understand sales performance, identify patterns, and support data-driven business decisions.
 
+## 🚀 Live Demo
+
+[Launch Sales Performance Analytics](https://sales-performance-business-analytics-gub2qnagpxtpgdnofuua6p.streamlit.app/)
+
 ## ✨ Key Areas
 
 - 📊 Sales performance analysis
